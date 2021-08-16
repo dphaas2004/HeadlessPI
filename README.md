@@ -1,14 +1,14 @@
 # HeadlessPI
 Headless Install on a Rasberry Pi 4B (Bonus IOT setup)
 
-There are a lot of tutorials online for this already so this will mainly be a summary however not all explain how to do this without a display or keyboard
+There are a lot of tutorials online for this already so this will mainly be a summary however not all explain how to do this without a display or keyboard which is why i documented my process.  The best one I have seen is here https://github.com/BretStateham/headlesspi and really covers everything I do and much more and explains what is going on in much more detail.  So check that out first.  
 
 # Disclaimer
 These are my notes and they may not be fully complete or accurate.
 
 # Things you'll Need
 - imaging software.  i have used win32diskimager and balenaEtcher. https://www.balena.io/etcher/  or there is one on Raspberry Pi foundations site below(i have not used this one)
-- program editor (not really needed but better for modifying the configuration files
+- program editor (not really needed but better for modifying the configuration files notepad should work)
 - Rasbian Buster image https://www.raspberrypi.org/downloads/
 - USB to serial adapter of sorts.  a TTL breakout like the FT232R works perfect for this.  https://www.sparkfun.com/products/12731
 - VNC Viewer.  i like realvnc as it has the proper encoding for linux systems.  i have had issues with tight in the past.  use what you want.  https://www.realvnc.com/en/connect/download/viewer/
