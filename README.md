@@ -1,7 +1,7 @@
 # HeadlessPI
 Headless Install on a Rasberry Pi 4B (Bonus IOT setup)
 
-There are a lot of tutorials online for this already so this will mainly be a summary however not all explain how to do this without a display or keyboard which is why i documented my process.  The best one I have seen is here https://github.com/BretStateham/headlesspi and really covers everything I do and much more and explains what is going on in much more detail.  So check that out first.  
+There are a lot of tutorials online for this already so this will mainly be a summary. However, not all explain how to do this without a display or keyboard which is why i documented my process.  The best one I have seen is here https://github.com/BretStateham/headlesspi and really covers everything I do and much more and explains what is going on in much more detail.  So check that out first.  
 
 # Disclaimer
 These are my notes and they may not be fully complete or accurate.
